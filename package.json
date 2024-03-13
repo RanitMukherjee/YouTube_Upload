@@ -1,0 +1,22 @@
+{
+  "name": "youtube_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanitMukherjee/YouTube_Upload.git"
+  },
+  "keywords": [
+    "YouTube"
+  ],
+  "author": "Ranit Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanitMukherjee/YouTube_Upload/issues"
+  },
+  "homepage": "https://github.com/RanitMukherjee/YouTube_Upload#readme"
+}
